@@ -1,0 +1,11 @@
+# Ignore these folders
+Practice\ Problems/
+Quizzes/
+Tests/
+Chapter\ Slides/Unit\ 1/
+Chapter\ Slides/Unit\ 2/
+Chapter\ Slides/Unit\ 3/
+Chapter\ Slides/Unit\ 4/
+
+# Ignore this file
+"Icon\r"
